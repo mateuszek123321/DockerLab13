@@ -20,6 +20,8 @@ docker exec mysql cat /run/secrets/mysql_root_password
 
 ### Polecenie 4
 Sprawdzenie działa strony:
+Wyświetlenie strony php: http://localhost:4001
+Wyświetlenie phpMyAdmin: http://localhost:6001
 ![alt text](image-5.png)
 ![alt text](image-6.png)
 
